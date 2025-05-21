@@ -5,3 +5,5 @@
 
 #libs
 /packages/**
+# ignore generated code from rules-engine
+packages/rules-engine/src/RulesEngine.js
