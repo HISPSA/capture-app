@@ -11,3 +11,4 @@ packages/rules-engine/src/RulesEngine.js
 # ignore generated rules-engine bundle
 packages/rules-engine/build/**
 packages/rules-engine/src/RulesEngine.js
+packages/rules-engine/**
